@@ -1,5 +1,6 @@
+#include <iostream>
 #include "money.h"
-#include <string>
+
 using namespace std;
 
         Money::Money(int d, int c)
