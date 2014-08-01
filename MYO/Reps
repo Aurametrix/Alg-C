@@ -1,0 +1,17 @@
+Wrapper for Thalmic Myo API (SDK Alpha 5), for Windows
+https://github.com/eddietree/ofxMyo
+needs Opne Frameworks:
+https://github.com/openframeworks/openFrameworks
+
+AS3 framework for working with Thalmic Labs Myo
+https://github.com/logotype/MyoAS3
+
+Using a Thalmic myoband to read bike hand signs and trigger signal lights
+https://github.com/danielgm/myo-bikesigns
+
+Salesforce Wear Pack for Myo: a touchless surgery device
+https://github.com/developerforce/WearablePack-Myo/blob/master/README.md
+
+Brandyn White's WearScript library was originally designed to make it easy to hack apps for Google Glass, 
+but it's being applied to Myo programming to make it possible to control up/down/left/right movement actions for 2048.
+https://github.com/bwhite/weariverse
