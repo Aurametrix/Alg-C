@@ -1,0 +1,12 @@
+https://cloudpebble.net/ide/
+CloudPebble is an online IDE for pebble development
+You do not need to install anything on your computer
+It works on any platform with a browser (Windows/Mac/Linux, iPad, etc)
+For iOS development
+
+https://developer.getpebble.com/sdk/
+Download and Install SDK
+You get to use your own text editor
+You can work offline
+You can customize the build process if you need to (through the wscript build file for waf)
+But it only works on Linux and Mac
