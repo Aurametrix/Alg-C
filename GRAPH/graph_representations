@@ -1,0 +1,41 @@
+V - set of vertices (assuming: |V|<|E|)
+E - set of edges
+K - set of vertices adjacent to vertex u
+
+
+                                      adjacency matrix                 collection of adjacency lists
+
+Memory complexity (optimal – O(|E|))        O(|V|2)                       O(|E|)
+Add new edge (optimal – O(1))               O(1)                          O(1)
+Remove edge (optimal – O(1))                O(1)                          O(|K|)
+Search edge (optimal – O(1))                O(1)                          O(|K|)
+Enumeration of the vertices adjacent to u
+(optimal – O(|K|))                          O(|V|)                        O(|K|)
+
+Code will be faster with adjacency matrix, unless the graph s too large
+
+// Adjacency list
+{a,b}, {a,c}, {b,c}
+
+
+// Singly linked lists
+Node data structure has two fields. A variable firstNode always points to the first node in the list, or is null for an empty list.
+
+
+ record Node
+ {
+    data; // The data being stored in the node
+    Node next // A reference to the next node, null for last node
+ }
+ record List
+ {
+     Node firstNode // points to first node of list; null for empty list
+ }
+
+Array fo sorting data (Variable for number of vertices, etc)
+Array for storing pointers to next elements
+(pointer to previous element in the list can be derived from that)
+
+
+
+// HashList - union of linked list and hashed table
