@@ -1,12 +1,10 @@
-#include <string.h>
- 
 int palindrome(const char *s)
 {
-   int i,l;
-   l = strlen(s);
-   for(i=0; i<l/2; i++)
+   const char *t; /* t is a pointer that traverses backwards from the end */
+   for (t = s; *t != '\0'; t++) ; t--; /* set t to point to last character */
+   while (s < t)
    {
-     if ( s[i] != s[l-i-1] ) return 0; 
+     if ( *s++ != *t-- ) return 0; 
    }
    return 1;
 }
