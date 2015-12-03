@@ -1,6 +1,12 @@
 void step_up(void)
 {
-    while (!step()) {
-        step_up();
+    int i = 0;
+ 
+    while (i < 1) {
+        if (step()) {
+            ++i;
+        } else {
+            --i;
+        }
     }
 }
