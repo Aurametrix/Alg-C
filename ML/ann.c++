@@ -48,3 +48,44 @@ void TrainNetwork(TrainingSet,MaxError)
           }
      }
 }
+
+public bool Train()
+{
+    double currentError = 0;
+    int currentIteration = 0;
+    NeuralEventArgs Args = new NeuralEventArgs() ;
+
+    do
+    {
+        currentError = 0;
+        foreach (KeyValuePair<T, double[]> p in TrainingSet)
+        {
+            NeuralNet.ForwardPropagate(p.Value, p.Key);
+            NeuralNet.BackPropagate();
+            currentError += NeuralNet.GetError();
+        }
+                
+        currentIteration++;
+    
+        if (IterationChanged != null && currentIteration % 5 == 0)
+        {
+            Args.CurrentError = currentError;
+            Args.CurrentIteration = currentIteration;
+            IterationChanged(this, Args);
+        }
+
+    } while (currentError > maximumError && currentIteration < 
+    maximumIteration && !Args.Stop);
+
+    if (IterationChanged != null)
+    {
+        Args.CurrentError = currentError;
+        Args.CurrentIteration = currentIteration;
+        IterationChanged(this, Args);
+    }
+
+    if (currentIteration >= maximumIteration || Args.Stop)   
+        return false;//Training Not Successful
+            
+    return true;
+}
