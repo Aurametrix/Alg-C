@@ -36,3 +36,15 @@ private PreInput[] PreInputLayer;
 private Input[] InputLayer;
 private Hidden[] HiddenLayer;
 private Output<string>[] OutputLayer;
+
+void TrainNetwork(TrainingSet,MaxError)
+{
+     while(CurrentError>MaxError)
+     {
+          foreach(Pattern in TrainingSet)
+          {
+               ForwardPropagate(Pattern);//calculate output 
+               BackPropagate()//fix errors, update weights
+          }
+     }
+}
