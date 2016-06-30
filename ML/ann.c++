@@ -32,3 +32,7 @@ struct Output<T> where T : IComparable<T>
     public double Target;     
     public T Value;   
 };
+private PreInput[] PreInputLayer;
+private Input[] InputLayer;
+private Hidden[] HiddenLayer;
+private Output<string>[] OutputLayer;
