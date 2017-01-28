@@ -1,0 +1,8 @@
+private async void Button_Click(object sender, RoutedEventArgs e)
+{
+    var locator = new Windows.Devices.Geolocation.Geolocator();
+    var location = await locator.GetGeopositionAsync();
+    var position = location.Coordinate.Point.Position;
+    var latlong = string.Format("lat:{0}, long:{1}", position.Latitude, position.Longitude);
+    var result = MessageBox.Show(latlong);
+}
