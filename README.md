@@ -51,8 +51,8 @@ brew tap homebrew/versions && brew install gcc48
 
 
 Basic Data Structures:
-1. STACKS
-2. QUEUES
+1. [STACKS](HASH/stack.cpp)
+2. [QUEUES](HASH/queue.c%2B%2B)
 3. LINKED LISTS
 4. BINARY TREES
 
@@ -60,3 +60,9 @@ Basic Data Structures:
 What not to do: 
 use malloc to dynamically allocate memory, and free to deallocate it. 
 malloc takes a count of bytes and returns a void pointer
+
+Stroustrup's ["The C++ Programming Language" ](http://www.stroustrup.com/4th.html) 
+[C++ video lectures](https://www.youtube.com/user/BoQianTheProgrammer/playlists)
+[Teach yourself programming](http://norvig.com/21-days.html)
+[Recommendations about coding in C++](https://software.intel.com/en-us/articles/the-ultimate-question-of-programming-refactoring-and-everything): pay attention
+[C++ Coding Standards](http://www.informit.com/articles/article.aspx?p=373339)
