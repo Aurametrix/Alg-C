@@ -39,7 +39,7 @@ Creating dynamically sized arrays at run-time is done using std::vector<T>
 //sizeof(i) returns the amount of memory (in bytes) for the variable or type i
 //sizeof an array is the distance between elements of that array	
 
-http://www.cplusplus.com/reference/iostream/cout/
+[Standard C++ Library reference](http://www.cplusplus.com/reference/iostream/cout/)
 
 unrecognized command line option "-std=gnu++0x"
 GCC 4.2 is ancient, but Apple don't ship a newer version.
@@ -56,13 +56,16 @@ Basic Data Structures:
 3. LINKED LISTS
 4. BINARY TREES
 
+* [C++ cheet sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
+* [Reference](http://en.cppreference.com/w/)
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/programming-language-resources.md)
 
-What not to do: 
+### What not to do: 
 use malloc to dynamically allocate memory, and free to deallocate it. 
 malloc takes a count of bytes and returns a void pointer
 
-Stroustrup's ["The C++ Programming Language" ](http://www.stroustrup.com/4th.html) 
-[C++ video lectures](https://www.youtube.com/user/BoQianTheProgrammer/playlists)
-[Teach yourself programming](http://norvig.com/21-days.html)
-[Recommendations about coding in C++](https://software.intel.com/en-us/articles/the-ultimate-question-of-programming-refactoring-and-everything): pay attention
-[C++ Coding Standards](http://www.informit.com/articles/article.aspx?p=373339)
+* Stroustrup's ["The C++ Programming Language" ](http://www.stroustrup.com/4th.html) 
+* [C++ video lectures](https://www.youtube.com/user/BoQianTheProgrammer/playlists)
+* [Teach yourself programming](http://norvig.com/21-days.html)
+* [Recommendations about coding in C++](https://software.intel.com/en-us/articles/the-ultimate-question-of-programming-refactoring-and-everything): pay attention
+* [C++ Coding Standards](http://www.informit.com/articles/article.aspx?p=373339)
