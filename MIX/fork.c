@@ -17,3 +17,13 @@ main() {
  
     return 0;
 }
+
+while (1) {
+        input = readline("unixsh> ");
+        command = get_input(input);
+
+        child_pid = fork();
+        if (child_pid < 0) {
+            perror("Fork failed");
+            exit(1);
+        }
