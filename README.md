@@ -77,4 +77,7 @@ Basic Data Structures:
 * [Recommendations about coding in C++](https://software.intel.com/en-us/articles/the-ultimate-question-of-programming-refactoring-and-everything): pay attention
 * [C++ Coding Standards](http://www.informit.com/articles/article.aspx?p=373339)
 
+##### misc
+
+[C++ implementation of the I2P anonymous network](https://github.com/monero-project/kovri)
 
