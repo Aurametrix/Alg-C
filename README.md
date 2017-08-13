@@ -79,5 +79,7 @@ Basic Data Structures:
 
 ##### misc
 
-[C++ implementation of the I2P anonymous network](https://github.com/monero-project/kovri)
+* [C++ implementation of the I2P anonymous network](https://github.com/monero-project/kovri)
+
+* [C++ implementation of a secure messaging protocol](https://github.com/equalitie/np1sec)
 
