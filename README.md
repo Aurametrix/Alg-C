@@ -83,3 +83,7 @@ Basic Data Structures:
 
 * [C++ implementation of a secure messaging protocol](https://github.com/equalitie/np1sec)
 
+* [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
+
+* [A Tutorial on Pointers and Arrays in C:] (http://home.netcom.com/%7Etjensen/ptr/pointers.htm)
+* [Right-left Rule:] (http://ieng9.ucsd.edu/~cs30x/rt_lt.rule.html)
