@@ -46,6 +46,13 @@ Creating dynamically sized arrays at run-time is done using std::vector<T>
 
 [Standard C++ Library reference](http://www.cplusplus.com/reference/iostream/cout/)
 
+* Essential C (http://cslibrary.stanford.edu/101/)
+Explains the basic features of the C programming language.
+* Pointers and Memory (http://cslibrary.stanford.edu/102/)
+Explains how pointers and memory work in C and other languages. Starts
+with the very basics, and extends through advanced topics such as
+reference parameters and heap management.
+
 unrecognized command line option "-std=gnu++0x"
 GCC 4.2 is ancient, but Apple don't ship a newer version.
 
@@ -59,7 +66,13 @@ Basic Data Structures:
 1. [STACKS](HASH/stack.cpp)
 2. [QUEUES](HASH/queue.c%2B%2B)
 3. LINKED LISTS
+    * [Linked List Basics](http://cslibrary.stanford.edu/103/)
+    * [Linked List problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf)
+
 4. BINARY TREES
+    * Binary Tree basics (http://cslibrary.stanford.edu/110/)
+    * The Great Tree List Problem (http://cslibrary.stanford.edu/109/)
+
 
 * [C++ cheet sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
 * [Reference](http://en.cppreference.com/w/)
