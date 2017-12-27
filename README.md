@@ -1,27 +1,29 @@
-Alg-C
+### Algorithms in C/C++
 =====
 
-Algorithms in C/C++
 
-gcc mycode.c
+    gcc mycode.c
 
-c++ mycode.c++
+    c++ mycode.c++
 
-gcc mycode.cpp -lstdc++
+    gcc mycode.cpp -lstdc++
 
 If c++ file does not have the main function (declared in another file), instead of: 
 
-c++ mycode.cpp
+    c++ mycode.cpp
 
 Try: 
 
-g++ -c mycode.cpp
-g++ -c codethathasmain.cpp
+    g++ -c mycode.cpp
+    g++ -c codethathasmain.cpp
+
 Link with
-g++ -omy_program codethathasmain.o mycode.o
+
+    g++ -omy_program codethathasmain.o mycode.o
 
 
 C#
+
 Unlike C++, there are no object (.obj) files created as a result of invoking the C# compiler
 Output files are created directly, so the C# compiler does not need a linker.
 
@@ -72,6 +74,29 @@ Basic Data Structures:
 4. BINARY TREES
     * Binary Tree basics (http://cslibrary.stanford.edu/110/)
     * The Great Tree List Problem (http://cslibrary.stanford.edu/109/)
+
+
+#### [SORT](https://github.com/Aurametrix/Alg-C/tree/master/SORT)
+
+------
+
+| Sort       			                                                | Worst Case    | Average Case   	| Best Caase        | 
+| -------------			 |:-------------: |:-------------:													| -----:		    |
+|  [Bogo](https://en.wikipedia.org/wiki/Bogosort)   					| O((n+1)!)	|O((n+1)!)		  	 | O(n)					|
+|  [Bubble](https://en.wikipedia.org/wiki/Bubble_sort)   				| O(n<sup>2</sup>)|	O(n<sup>2</sup>) | O(n)				|
+|  [Cocktail Shaker](https://en.wikipedia.org/wiki/Cocktail_shaker_sort)| O(n<sup>2</sup>) |O(n<sup>2</sup>)		| O(n)		|
+|  [Selection](https://en.wikipedia.org/wiki/Selection_sort)   			| O(n<sup>2</sup>) |O(n<sup>2</sup>) | O(n<sup>2</sup>)	|
+|  [Gnome](https://en.wikipedia.org/wiki/Gnome_sort)   				    | O(n<sup>2</sup>)|	O(n<sup>2</sup>) |  O(n<sup>2</sup>)|
+|  [Comb](https://en.wikipedia.org/wiki/Comb_sort)   					| O(n<sup>2</sup>) |O(nlogn) |O(nlogn)              	|
+|  [Insertion](https://en.wikipedia.org/wiki/Insertion_sort)   			| O(n<sup>2</sup>)|	O(n<sup>2</sup>) |O(n)				|
+|  [Shell](https://en.wikipedia.org/wiki/Shellsort)   					| O(n(log(n))<sup>2</sup>) | O(n(log(n))<sup>2</sup>)|O(nlogn)	|
+|  [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)  				| O(nlogn)	| O(nlogn)		 |O(nlogn)		            |				
+|  [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)  		 		| O(n<sup>2</sup>)| 	O(nlogn)	|O(nlogn)	    	|
+|  [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)  		 		| O(nlogn)|	 O(nlogn)			 |O(nlogn)	        	|
+
++ [Sorting functions implemented in C as std qsort() format](https://github.com/p1v0t/Sort)
+ 
+
 
 
 * [C++ cheet sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
