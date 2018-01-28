@@ -126,3 +126,4 @@ Basic Data Structures:
 * [A Tutorial on Pointers and Arrays in C:] (http://home.netcom.com/%7Etjensen/ptr/pointers.htm)
 * [Right-left Rule:] (http://ieng9.ucsd.edu/~cs30x/rt_lt.rule.html)
 * [Zstandard, real time compression](https://github.com/facebook/zstd)
+* [Understanding the C/C++ memory model](https://davmac.wordpress.com/2018/01/28/understanding-the-c-c-memory-model/)
