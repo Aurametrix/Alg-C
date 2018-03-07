@@ -115,6 +115,36 @@ Basic Data Structures:
 * [Recommendations about coding in C++](https://software.intel.com/en-us/articles/the-ultimate-question-of-programming-refactoring-and-everything): pay attention
 * [C++ Coding Standards](http://www.informit.com/articles/article.aspx?p=373339)
 
+
+##### Best ways to learn modern C
+
+- Tour of C++ (http://www.stroustrup.com/Tour.html)
+- Principles and Practice Using C++ (http://www.stroustrup.com/programming.html)
+
+- From Mathematics to Generic Programming (http://www.fm2gp.com/)
+
+- The Scott Meyers books
+
+Some of the Bjarne Stroustrup videos,
+
+"Learning and Teaching Modern C++" - https://www.youtube.com/watch?v=fX2W3nNjJIo
+
+Some of the Herb Sutter videos,
+
+"Writing Good C++14... By Default" - https://www.youtube.com/watch?v=hEx5DNLWGgA
+
+"Back to the Basics! Essentials of Modern C++ Style" - https://www.youtube.com/watch?v=xnqTKD8uD64
+
+Some of the Kate Gregory videos,
+
+"Stop Teaching C" - https://www.youtube.com/watch?v=YnWhqhNdYyk
+
+"10 Core Guidelines You Need to Start Using Now" - https://www.youtube.com/watch?v=XkDEzfpdcSg
+
+"It's Complicated" - https://www.youtube.com/watch?v=tTexD26jIN4
+
+[CPP Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+
 ##### misc
 
 * [C++ implementation of the I2P anonymous network](https://github.com/monero-project/kovri)
