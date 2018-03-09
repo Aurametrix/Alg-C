@@ -125,25 +125,21 @@ Basic Data Structures:
 
 - The Scott Meyers books
 
-Some of the Bjarne Stroustrup videos,
+-  Some of the Bjarne Stroustrup videos: "Learning and Teaching Modern C++" - https://www.youtube.com/watch?v=fX2W3nNjJIo
 
-"Learning and Teaching Modern C++" - https://www.youtube.com/watch?v=fX2W3nNjJIo
+-  Some of the Herb Sutter videos: "Writing Good C++14... By Default" - https://www.youtube.com/watch?v=hEx5DNLWGgA
 
-Some of the Herb Sutter videos,
+- "Back to the Basics! Essentials of Modern C++ Style" - https://www.youtube.com/watch?v=xnqTKD8uD64
 
-"Writing Good C++14... By Default" - https://www.youtube.com/watch?v=hEx5DNLWGgA
+- Some of the Kate Gregory videos,"Stop Teaching C" - https://www.youtube.com/watch?v=YnWhqhNdYyk
 
-"Back to the Basics! Essentials of Modern C++ Style" - https://www.youtube.com/watch?v=xnqTKD8uD64
+- "10 Core Guidelines You Need to Start Using Now" - https://www.youtube.com/watch?v=XkDEzfpdcSg
 
-Some of the Kate Gregory videos,
-
-"Stop Teaching C" - https://www.youtube.com/watch?v=YnWhqhNdYyk
-
-"10 Core Guidelines You Need to Start Using Now" - https://www.youtube.com/watch?v=XkDEzfpdcSg
-
-"It's Complicated" - https://www.youtube.com/watch?v=tTexD26jIN4
+- "It's Complicated" - https://www.youtube.com/watch?v=tTexD26jIN4
 
 [CPP Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+
+[free open-source books](https://www.ossblog.org/master-c-programming-with-open-source-books/)
 
 ##### misc
 
