@@ -137,9 +137,11 @@ Basic Data Structures:
 
 - "It's Complicated" - https://www.youtube.com/watch?v=tTexD26jIN4
 
-[CPP Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+- [CPP Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
-[free open-source books](https://www.ossblog.org/master-c-programming-with-open-source-books/)
+- [free open-source books](https://www.ossblog.org/master-c-programming-with-open-source-books/)
+
+- [Google's C++ class](https://developers.google.com/edu/c++/)
 
 ##### misc
 
