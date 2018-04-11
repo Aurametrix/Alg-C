@@ -48,6 +48,8 @@ Creating dynamically sized arrays at run-time is done using std::vector<T>
 
 [Standard C++ Library reference](http://www.cplusplus.com/reference/iostream/cout/)
 
+[building a website with C++](https://blog.sourcerer.io/building-a-website-with-c-db942c801aee)
+
 * Essential C (http://cslibrary.stanford.edu/101/)
 Explains the basic features of the C programming language.
 * Pointers and Memory (http://cslibrary.stanford.edu/102/)
