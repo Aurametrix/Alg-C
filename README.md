@@ -33,6 +33,9 @@ csc /out:MyFile.exe File.cs (=> MyFile.exe)
 to create dll (dynamically linked library):
 csc /target:library File.cs
 
+===
+
+[compile C#/C++ faster](https://github.com/Microsoft/FASTER)
 
 
 ===
