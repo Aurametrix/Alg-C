@@ -1,0 +1,23 @@
+data ArithExpr = Add ArithExpr ArithExpr    -- '1 + 2'
+               | Sub ArithExpr ArithExpr    -- '1 - 2'
+               | Mul ArithExpr ArithExpr    -- '1 * 2'
+               | Div ArithExpr ArithExpr    -- '1 / 2'
+               | Parens ArithExpr           -- '(1)'
+               | Num Double                 -- '1.23'
+               -- invalid productions:
+               | InvalidOp String ArithExpr ArithExpr -- '1?2' (with invalid char '?')
+               | InvalidNum String                    -- 'xyz' (with invalid char 'xyz')
+               | MissingOp ArithExpr ArithExpr        -- '(1)(2)' (no op in between)
+               | MissingNum                           -- '' (no number where expected)
+               | MissingOpeningParen                  -- '1)'
+               | MissingClosingParen                  -- '(1'
+
+parseArithExpr :: String -> ArithExpr  -- always returns an ArithExpr, no Maybe or Either
+
+parseArithExpr "1+2*3"    -- Add (Num 1) (Mul (Num 2) (Num 3))
+parseArithExpr "(1+2)*3"  -- Mul (Parens (Add (Num 1) (Num 2))) (Num 3)
+parseArithExpr "1&2&3"    -- InvalidOp "&" (InvalidOp "&" (Num 1) (Num 2)) (Num 3)
+parseArithExpr "1+2+a/0*" -- Add (Add (Num 1) (Num 2))
+                          --     (Mul (Div (InvalidNum "a". (Num 0)) MissingNum)
+parseArithExpr "4)()(5"   -- MissingOp (MissingOp (MissingOpeningParen (Num 4)) (Parens (MissingNum)))
+                          --           (MissingClosingParen (Num 5))
