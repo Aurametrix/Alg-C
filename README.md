@@ -35,7 +35,8 @@ csc /target:library File.cs
 
 ===
 
-[compile C#/C++ faster](https://github.com/Microsoft/FASTER)
++ [compile C#/C++ faster](https://github.com/Microsoft/FASTER)
++ []Compiler Explorer](https://godbolt.org/z/slznbU)
 
 
 ===
