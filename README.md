@@ -37,6 +37,7 @@ csc /target:library File.cs
 
 + [compile C#/C++ faster](https://github.com/Microsoft/FASTER)
 + [Compiler Explorer](https://godbolt.org/z/slznbU)
++ [Single Instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
 + [C++ for Android and iOS development](https://github.com/ashampoosystems/boden)
 
 ===
