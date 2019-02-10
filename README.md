@@ -36,7 +36,8 @@ csc /target:library File.cs
 ===
 
 + [compile C#/C++ faster](https://github.com/Microsoft/FASTER)
-+ [Compiler Explorer](https://godbolt.org/z/slznbU)
++ [Compiler Explorer](https://godbolt.org/)
++ [virtual machine that runs C in the browser](https://vasyop.github.io/miniC-hosting)
 + [Single Instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
 + [C++ for Android and iOS development](https://github.com/ashampoosystems/boden)
 
