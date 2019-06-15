@@ -6,3 +6,11 @@ More information available at: http://espotek.com/labrador
 
 github: https://github.com/EspoTek/Labrador
 
+Eviro+ for Raspberry Pi 
+https://shop.pimoroni.com/products/enviro-plus
+
+Hygrometers
+http://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_many.html
+
+Temperature
+https://www.instructables.com/id/How-to-Measure-Temperature-Very-Accurately-With-an/
