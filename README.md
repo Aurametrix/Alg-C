@@ -173,3 +173,5 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 * [Understanding the C/C++ memory model](https://davmac.wordpress.com/2018/01/28/understanding-the-c-c-memory-model/)
 
 * [Near-duplicate features of C++](https://www.nayuki.io/page/near-duplicate-features-of-cplusplus)
+
+* [Google's robots.rxt parser](https://github.com/google/robotstxt)
