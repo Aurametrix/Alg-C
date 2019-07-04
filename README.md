@@ -174,4 +174,6 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 
 * [Near-duplicate features of C++](https://www.nayuki.io/page/near-duplicate-features-of-cplusplus)
 
+* [lager](https://sinusoid.es/lager/), a C++ library to assist value-oriented design by implementing the unidirectional data-flow architecture; [github](https://github.com/arximboldi/lager)
+
 * [Google's robots.rxt parser](https://github.com/google/robotstxt)
