@@ -154,6 +154,8 @@ Basic Data Structures:
 
 - [Google's C++ class](https://developers.google.com/edu/c++/)
 
+= [So you think you know C?](https://wordsandbuttons.online/so_you_think_you_know_c.html)
+
 ##### misc
 
 * [C++ UI libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
