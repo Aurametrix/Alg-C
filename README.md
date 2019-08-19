@@ -178,4 +178,6 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 
 * [lager](https://sinusoid.es/lager/), a C++ library to assist value-oriented design by implementing the unidirectional data-flow architecture; [github](https://github.com/arximboldi/lager)
 
+* [Math parser](https://github.com/ArashPartow/math-parser-benchmark-project)
+
 * [Google's robots.rxt parser](https://github.com/google/robotstxt)
