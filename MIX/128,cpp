@@ -1,0 +1,12 @@
+      __product = (unsigned __int128)(__urng() - __urngmin) * __uerange;
+      uint64_t __lsb = uint64_t(__product);
+      if(__lsb < __uerange)
+      {
+        uint64_t __threshold = -uint64_t(__uerange) % uint64_t(__uerange);
+        while (__lsb < __threshold)
+        {
+          __product = (unsigned __int128)(__urng() - __urngmin) * __uerange;
+          __lsb = uint64_t(__product);
+        }
+      }
+      __ret = __product >> 64;
