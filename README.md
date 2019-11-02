@@ -183,3 +183,5 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 * [Math parser](https://github.com/ArashPartow/math-parser-benchmark-project)
 
 * [Google's robots.rxt parser](https://github.com/google/robotstxt)
+
+* [Algorithm visualizer](https://algorithm-visualizer.org/)
