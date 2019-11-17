@@ -17,3 +17,5 @@ https://www.instructables.com/id/How-to-Measure-Temperature-Very-Accurately-With
 
 
 [Google VR Cardboard](https://github.com/googlevr/cardboard)
+
+[Lidar View](https://github.com/Kitware/LidarView) - depth sensing
