@@ -178,6 +178,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 
 * [Some obscure C features](https://multun.net/obscure-c-features.html)
 
+* [Linux driver for the Xbox One wireless dongle](https://github.com/medusalix/xow)
+
 * [lager](https://sinusoid.es/lager/), a C++ library to assist value-oriented design by implementing the unidirectional data-flow architecture; [github](https://github.com/arximboldi/lager)
 
 * [Math parser](https://github.com/ArashPartow/math-parser-benchmark-project)
