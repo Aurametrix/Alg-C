@@ -191,3 +191,5 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 * [Algorithm visualizer](https://algorithm-visualizer.org/)
 
 * [MS application inspector](https://github.com/Microsoft/ApplicationInspector)
+
++ [TOML++](https://marzer.github.io/tomlplusplus/) - parsr and serializer
