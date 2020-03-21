@@ -163,6 +163,8 @@ Basic Data Structures:
 
 * [C++ implementation of a secure messaging protocol](https://github.com/equalitie/np1sec)
 
+* [Secure cache](https://github.com/rongarret/scache)
+
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
 
 * [Floating point library](https://github.com/oprecomp/FloatX)
