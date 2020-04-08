@@ -198,4 +198,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 
 * [MS application inspector](https://github.com/Microsoft/ApplicationInspector)
 
-+ [TOML++](https://marzer.github.io/tomlplusplus/) - parsr and serializer
++ [TOML++](https://marzer.github.io/tomlplusplus/) - parser and serializer
+
++ [Virtual CPU](http://megalomaniacbore.blogspot.com/2014/04/virtual-cpu-in-c-4001-cpu.html)
+
++ [Anomaly detection in graphs](https://github.com/bhatiasiddharth/MIDAS)
