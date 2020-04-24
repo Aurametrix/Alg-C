@@ -47,6 +47,8 @@ csc /target:library File.cs
 + [Single Instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
 + [C++ for Android and iOS development](https://github.com/ashampoosystems/boden)
 
++ [Obfuscation tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
+
 ===
 Creating dynamically sized arrays at run-time is done using std::vector<T>
 
