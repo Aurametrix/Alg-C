@@ -204,9 +204,11 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 
 + [Virtual CPU](http://megalomaniacbore.blogspot.com/2014/04/virtual-cpu-in-c-4001-cpu.html)
 
++ [Circle](https://github.com/seanbaxter/circle) - C++ compiler
+
 + [Anomaly detection in graphs](https://github.com/bhatiasiddharth/MIDAS)
 
 + [Modern C++](https://docs.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=vs-2019)
 
-+ [Find partners for softwaree projects](https://redsand.io/)
++ [Find partners for software projects](https://redsand.io/)
 + [mini-Dog](https://github.com/XRobots/miniDogV2)
