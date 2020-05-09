@@ -211,4 +211,6 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Modern C++](https://docs.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=vs-2019)
 
 + [Find partners for software projects](https://redsand.io/)
+
++ [Orca](https://git.sr.ht/~rabbits/orca) - audio-visual live coding
 + [mini-Dog](https://github.com/XRobots/miniDogV2)
