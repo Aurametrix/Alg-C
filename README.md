@@ -214,3 +214,5 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 
 + [Orca](https://git.sr.ht/~rabbits/orca) - audio-visual live coding
 + [mini-Dog](https://github.com/XRobots/miniDogV2)
+
++ [NLP-based programming](https://twitter.com/matvelloso/status/1263193089310461952)
