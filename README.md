@@ -210,6 +210,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 
 + [Modern C++](https://docs.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=vs-2019)
 
++ [Test anything in C++ ](http://testanything.org/testing-with-tap/c-plus-plus.html)
+
 + [Find partners for software projects](https://redsand.io/)
 
 + [Orca](https://git.sr.ht/~rabbits/orca) - audio-visual live coding
