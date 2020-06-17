@@ -46,7 +46,7 @@ csc /target:library File.cs
 + [virtual machine that runs C in the browser](https://vasyop.github.io/miniC-hosting)
 + [Single Instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
 + [C++ for Android and iOS development](https://github.com/ashampoosystems/boden)
-
++ [Intro to pointers](https://www.brainstobytes.com/a-gentle-introduction-to-pointers-in-c/)
 + [Obfuscation tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
 
 ===
