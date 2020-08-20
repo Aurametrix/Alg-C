@@ -206,6 +206,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 
 + [Circle](https://github.com/seanbaxter/circle) - C++ compiler
 
++ [writing games](https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html)
+
 + [Anomaly detection in graphs](https://github.com/bhatiasiddharth/MIDAS)
 
 + [Modern C++](https://docs.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=vs-2019)
