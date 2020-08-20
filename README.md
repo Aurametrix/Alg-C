@@ -218,3 +218,4 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [mini-Dog](https://github.com/XRobots/miniDogV2)
 
 + [NLP-based programming](https://twitter.com/matvelloso/status/1263193089310461952)
++ [A DOS JavaScript Canvas with sound written in C](https://github.com/SuperIlu/DOjS)
