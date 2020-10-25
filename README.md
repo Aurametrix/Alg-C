@@ -48,6 +48,7 @@ csc /target:library File.cs
 + [C++ for Android and iOS development](https://github.com/ashampoosystems/boden)
 + [Intro to pointers](https://www.brainstobytes.com/a-gentle-introduction-to-pointers-in-c/)
 + [Obfuscation tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
++ [Defining C macros](https://bowero.nl/blog/2020/10/25/defining-c-macros-the-right-way/)
 
 ===
 Creating dynamically sized arrays at run-time is done using std::vector<T>
