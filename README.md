@@ -221,6 +221,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Orca](https://git.sr.ht/~rabbits/orca) - audio-visual live coding
 + [mini-Dog](https://github.com/XRobots/miniDogV2)
 
++ [Terminal File Manager](https://github.com/jarun/nnn); see also [vifm](https://github.com/vifm/vifm)
+
 + [NLP-based programming](https://twitter.com/matvelloso/status/1263193089310461952)
 + [A DOS JavaScript Canvas with sound written in C](https://github.com/SuperIlu/DOjS)
 + [Matplot++](https://github.com/alandefreitas/matplotplusplus)
