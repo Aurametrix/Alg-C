@@ -219,6 +219,10 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Find partners for software projects](https://redsand.io/)
 
 + [Orca](https://git.sr.ht/~rabbits/orca) - audio-visual live coding
+
++ [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - time seeries visualization
++ [Implot](https://github.com/epezent/implot) - GPU plotting library
+
 + [mini-Dog](https://github.com/XRobots/miniDogV2)
 
 + [Terminal File Manager](https://github.com/jarun/nnn); see also [vifm](https://github.com/vifm/vifm)
