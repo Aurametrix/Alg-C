@@ -230,3 +230,12 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [NLP-based programming](https://twitter.com/matvelloso/status/1263193089310461952)
 + [A DOS JavaScript Canvas with sound written in C](https://github.com/SuperIlu/DOjS)
 + [Matplot++](https://github.com/alandefreitas/matplotplusplus)
+
+### Raspberry Pi
+https://github.com/hoglet67/RGBtoHDMI
+https://stardot.org.uk/forums/viewtopic.php?f=3&t=14430
+https://joetruncale.medium.com/thermos-d089e1c4974b
+https://github.com/gerrito333/mousehunter-edge/blob/master/README.md
+https://www.skyatnightmagazine.com/advice/diy/raspberry-pi-meteor-detector/
+https://magpi.raspberrypi.org/articles/build-a-magic-mirror
+https://tinypilotkvm.com
