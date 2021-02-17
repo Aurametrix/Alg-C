@@ -214,6 +214,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 
 + [Modern C++](https://docs.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=vs-2019)
 
++ [Inline and sideline approaches for low-cost memory safety in C](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-954.html)
+
 + [Test anything in C++ ](http://testanything.org/testing-with-tap/c-plus-plus.html)
 
 + [Find partners for software projects](https://redsand.io/)
