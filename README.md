@@ -164,7 +164,7 @@ Basic Data Structures:
 
 = [So you think you know C?](https://wordsandbuttons.online/so_you_think_you_know_c.html)
 
-##### misc
+##### misc / interesting
 
 * [C++ UI libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
 * [C++ implementation of the I2P anonymous network](https://github.com/monero-project/kovri)
@@ -234,6 +234,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Sabre C](https://github.com/garritfra/sabre)
 + [Little](http://www.little-lang.org/) - statically typed, C-like scripting language.
 + [Matplot++](https://github.com/alandefreitas/matplotplusplus)
++ [Cinder](https://libcinder.org/)  - a C++ library for programming with aesthetic intent
 
 ### Raspberry Pi
 https://github.com/hoglet67/RGBtoHDMI
