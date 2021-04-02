@@ -236,6 +236,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Little](http://www.little-lang.org/) - statically typed, C-like scripting language.
 + [Matplot++](https://github.com/alandefreitas/matplotplusplus)
 + [Cinder](https://libcinder.org/)  - a C++ library for programming with aesthetic intent
++ + [darkhttpd](https://unix4lyfe.org/darkhttpd/) - an http server in a single .c file
 
 ### Raspberry Pi
 https://github.com/hoglet67/RGBtoHDMI
