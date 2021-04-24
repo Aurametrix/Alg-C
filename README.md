@@ -184,6 +184,7 @@ Basic Data Structures:
 see also [Zstd before FB](https://github.com/luben/zstd-jni)
 
 * [Microsoft Build Accelerator](https://news.ycombinator.com/item?id=19791515)
+* [Alternative Operator Representations](https://en.cppreference.com/w/cpp/language/operator_alternative)
 
 * [Understanding the C/C++ memory model](https://davmac.wordpress.com/2018/01/28/understanding-the-c-c-memory-model/)
 
