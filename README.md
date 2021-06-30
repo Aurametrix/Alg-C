@@ -182,6 +182,7 @@ Basic Data Structures:
 * [Right-left Rule:] (http://ieng9.ucsd.edu/~cs30x/rt_lt.rule.html)
 * [Zstandard, real time compression](https://github.com/facebook/zstd)
 see also [Zstd before FB](https://github.com/luben/zstd-jni)
+* [Parcing C in Tcl](https://wiki.tcl-lang.org/page/Parsing+C+Types)
 
 * [Microsoft Build Accelerator](https://news.ycombinator.com/item?id=19791515)
 * [Alternative Operator Representations](https://en.cppreference.com/w/cpp/language/operator_alternative)
