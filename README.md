@@ -169,6 +169,7 @@ Basic Data Structures:
 
 * [C++ UI libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
 * [C++ implementation of the I2P anonymous network](https://github.com/monero-project/kovri)
+* [C++20 concepts](https://thecodepad.com/cpp/c20-concepts-the-definitive-guide/)
 
 * [C++ implementation of a secure messaging protocol](https://github.com/equalitie/np1sec)
 
