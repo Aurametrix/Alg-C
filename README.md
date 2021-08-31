@@ -47,9 +47,10 @@ csc /target:library File.cs
 + [Single Instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
 + [C++ for Android and iOS development](https://github.com/ashampoosystems/boden)
 + [Intro to pointers](https://www.brainstobytes.com/a-gentle-introduction-to-pointers-in-c/)
++ [Implementing a class with a void *](http://web.eecs.utk.edu/~jplank/plank/classes/cs140/Notes/Running_Times/voidstar.html)
 + [Obfuscation tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
 + [Defining C macros](https://bowero.nl/blog/2020/10/25/defining-c-macros-the-right-way/)
-+ + [Cling](https://root.cern/cling/) - an interactive C++ interpreter,
++ [Cling](https://root.cern/cling/) - an interactive C++ interpreter,
 
 ===
 Creating dynamically sized arrays at run-time is done using std::vector<T>
