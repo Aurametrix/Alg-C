@@ -204,6 +204,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 * [Google's robots.rxt parser](https://github.com/google/robotstxt)
 
 * [Algorithm visualizer](https://algorithm-visualizer.org/)
+* [C-Sharp Syntax Rewriter Tool](https://github.com/ShiftLeftSecurity/SharpSyntaxRewriter)
+* [C++ pandas alternative](https://github.com/hosseinmoein/DataFrame)
 
 * [MS application inspector](https://github.com/Microsoft/ApplicationInspector)
 
@@ -240,7 +242,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Little](http://www.little-lang.org/) - statically typed, C-like scripting language.
 + [Matplot++](https://github.com/alandefreitas/matplotplusplus)
 + [Cinder](https://libcinder.org/)  - a C++ library for programming with aesthetic intent
-+ + [darkhttpd](https://unix4lyfe.org/darkhttpd/) - an http server in a single .c file
++ [darkhttpd](https://unix4lyfe.org/darkhttpd/) - an http server in a single .c file
 
 ### Raspberry Pi
 https://github.com/hoglet67/RGBtoHDMI
