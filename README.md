@@ -186,6 +186,8 @@ Basic Data Structures:
 see also [Zstd before FB](https://github.com/luben/zstd-jni)
 * [Parcing C in Tcl](https://wiki.tcl-lang.org/page/Parsing+C+Types)
 
+* [C and C++ refactoring tips](https://software.intel.com/content/www/us/en/develop/articles/the-ultimate-question-of-programming-refactoring-and-everything.html)
+
 * [Microsoft Build Accelerator](https://news.ycombinator.com/item?id=19791515)
 * [Alternative Operator Representations](https://en.cppreference.com/w/cpp/language/operator_alternative)
 
