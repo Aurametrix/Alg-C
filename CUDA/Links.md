@@ -7,3 +7,5 @@
 [Neural NEtwork Framework written in C and CUDA](https://github.com/pjreddie/darknet)
 
 Mesh-TensorFlow: Deep Learning for Supercomputers: https://arxiv.org/abs/1811.02084
+
+Intro to GPUs inner workings: https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
