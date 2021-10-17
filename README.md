@@ -76,6 +76,9 @@ Explains the basic features of the C programming language.
 Explains how pointers and memory work in C and other languages. Starts
 with the very basics, and extends through advanced topics such as
 reference parameters and heap management.
+    
+(Hunting a memory leak](https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d
+    )
 
 unrecognized command line option "-std=gnu++0x"
 GCC 4.2 is ancient, but Apple don't ship a newer version.
