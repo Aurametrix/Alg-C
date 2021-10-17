@@ -139,6 +139,7 @@ Basic Data Structures:
 * [Teach yourself programming](http://norvig.com/21-days.html)
 * [Recommendations about coding in C++](https://software.intel.com/en-us/articles/the-ultimate-question-of-programming-refactoring-and-everything): pay attention
 * [C++ Coding Standards](http://www.informit.com/articles/article.aspx?p=373339)
+* [Circle](https://www.circle-lang.org/) - the C++ automation language
 
 
 ##### Best ways to learn modern C
