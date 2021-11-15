@@ -249,6 +249,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Implot](https://github.com/epezent/implot) - GPU plotting library
 
 + [mini-Dog](https://github.com/XRobots/miniDogV2)
++ [Maco](https://github.com/chjj/mako) - full bitcoin implementation
 
 + [Terminal File Manager](https://github.com/jarun/nnn); see also [vifm](https://github.com/vifm/vifm)
 
