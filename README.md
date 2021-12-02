@@ -221,6 +221,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 * [Algorithm visualizer](https://algorithm-visualizer.org/)
 * [C-Sharp Syntax Rewriter Tool](https://github.com/ShiftLeftSecurity/SharpSyntaxRewriter)
 * [C++ pandas alternative](https://github.com/hosseinmoein/DataFrame)
+* [Autodiff in C++](https://tbz533.blogspot.com/2021/01/spin-your-own-autodiff-in-c.html)
 
 * [MS application inspector](https://github.com/Microsoft/ApplicationInspector)
 
