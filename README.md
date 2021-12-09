@@ -262,6 +262,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Matplot++](https://github.com/alandefreitas/matplotplusplus)
 + [Cinder](https://libcinder.org/)  - a C++ library for programming with aesthetic intent
 + [darkhttpd](https://unix4lyfe.org/darkhttpd/) - an http server in a single .c file
++ [Apple Open Source projects](https://opensource.apple.com/)
 
 ### Raspberry Pi
 https://github.com/hoglet67/RGBtoHDMI
