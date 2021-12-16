@@ -254,6 +254,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Maco](https://github.com/chjj/mako) - full bitcoin implementation
 
 + [Terminal File Manager](https://github.com/jarun/nnn); see also [vifm](https://github.com/vifm/vifm)
+    
++ [Fast Server for Python written in C](https://github.com/jamesroberts/fastwsgi)
 
 + [NLP-based programming](https://twitter.com/matvelloso/status/1263193089310461952)
 + [A DOS JavaScript Canvas with sound written in C](https://github.com/SuperIlu/DOjS)
