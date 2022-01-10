@@ -43,6 +43,7 @@ csc /target:library File.cs
 + [compile C#/C++ faster](https://github.com/Microsoft/FASTER)
 + [Compiler Explorer](https://godbolt.org/)
 + [C compiler that used Excel](https://github.com/mrthefakeperson/Excel-Virtual-Machine)
++ [awk to C compiler](https://github.com/nokia/awkcc)
 + [xmake](https://github.com/xmake-io/xmake) - build utility
 + [virtual machine that runs C in the browser](https://vasyop.github.io/miniC-hosting)
 + [Single Instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
