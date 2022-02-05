@@ -231,6 +231,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [TOML++](https://marzer.github.io/tomlplusplus/) - parser and serializer
 
 + [Virtual CPU](http://megalomaniacbore.blogspot.com/2014/04/virtual-cpu-in-c-4001-cpu.html)
+    
++ [Template engine for modern C++](https://github.com/pantor/inja)    
 
 + [Circle](https://github.com/seanbaxter/circle) - C++ compiler
 
