@@ -174,8 +174,10 @@ Basic Data Structures:
 - [free open-source books](https://www.ossblog.org/master-c-programming-with-open-source-books/)
 
 - [Google's C++ class](https://developers.google.com/edu/c++/)
+    
+- [Top secure coding practices](https://www.incredibuild.com/blog/top-10-secure-c-coding-practices)    
 
-= [So you think you know C?](https://wordsandbuttons.online/so_you_think_you_know_c.html)
+- [So you think you know C?](https://wordsandbuttons.online/so_you_think_you_know_c.html)
 
 ##### misc / interesting
 
