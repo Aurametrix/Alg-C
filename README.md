@@ -266,6 +266,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
     
 + [Fast Server for Python written in C](https://github.com/jamesroberts/fastwsgi)
 
++ [XHTTP:](https://github.com/cozis/xHTTP) - An HTTP server library in a single C file 
+
 + [NLP-based programming](https://twitter.com/matvelloso/status/1263193089310461952)
 + [A DOS JavaScript Canvas with sound written in C](https://github.com/SuperIlu/DOjS)
 + [Sabre C](https://github.com/garritfra/sabre)
