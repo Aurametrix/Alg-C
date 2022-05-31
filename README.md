@@ -278,6 +278,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Cinder](https://libcinder.org/)  - a C++ library for programming with aesthetic intent
 + [darkhttpd](https://unix4lyfe.org/darkhttpd/) - an http server in a single .c file
 + [Rust vs C/C++](http://cliffle.com/blog/prefer-rust/)
++ [Embracing Modern C++ safely](https://www.cppstories.com/2022/embracing-modern-cpp-book/)
 + [Apple Open Source projects](https://opensource.apple.com/)
 
 ### Raspberry Pi
