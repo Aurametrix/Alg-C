@@ -1,4 +1,7 @@
-/* Quick sort */
+// 10x faster Vectorized QuickSort: https://github.com/Aurametrix/Alg-C
+
+
+/* Regular Quick sort */
 
 #include <stdio.h>
 
