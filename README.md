@@ -204,6 +204,9 @@ Basic Data Structures:
     
 
 * [A Tutorial on Pointers and Arrays in C:] (http://home.netcom.com/%7Etjensen/ptr/pointers.htm)
+* [Learn C++ for embedded code](https://luckyresistor.me/knowledge/learn-cpp/)
+* [Embedded template library](https://www.etlcpp.com/)
+
 * [Right-left Rule:] (http://ieng9.ucsd.edu/~cs30x/rt_lt.rule.html)
 * [Zstandard, real time compression](https://github.com/facebook/zstd)
 see also [Zstd before FB](https://github.com/luben/zstd-jni)
