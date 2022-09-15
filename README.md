@@ -272,6 +272,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
     
 + [Fast Server for Python written in C](https://github.com/jamesroberts/fastwsgi)
 
++[Fast note-raking app](https://github.com/nuttyartist/notes)
+
 + [XHTTP:](https://github.com/cozis/xHTTP) - An HTTP server library in a single C file 
 
 + [NLP-based programming](https://twitter.com/matvelloso/status/1263193089310461952)
