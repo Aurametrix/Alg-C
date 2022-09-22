@@ -269,6 +269,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Maco](https://github.com/chjj/mako) - full bitcoin implementation
 
 + [Terminal File Manager](https://github.com/jarun/nnn); see also [vifm](https://github.com/vifm/vifm)
+
++ [olive](https://tsoding.org/olive.c/) - graphics lib with no dependencies
     
 + [Fast Server for Python written in C](https://github.com/jamesroberts/fastwsgi)
 
