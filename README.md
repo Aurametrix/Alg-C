@@ -207,6 +207,8 @@ Basic Data Structures:
 * [Learn C++ for embedded code](https://luckyresistor.me/knowledge/learn-cpp/)
 * [Embedded template library](https://www.etlcpp.com/)
 
+* [mle](https://github.com/adsr/mle) - small, flexible, terminal-based text editor
+
 * [Right-left Rule:] (http://ieng9.ucsd.edu/~cs30x/rt_lt.rule.html)
 * [Zstandard, real time compression](https://github.com/facebook/zstd)
 see also [Zstd before FB](https://github.com/luben/zstd-jni)
