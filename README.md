@@ -299,3 +299,5 @@ https://github.com/gerrito333/mousehunter-edge/blob/master/README.md
 https://www.skyatnightmagazine.com/advice/diy/raspberry-pi-meteor-detector/
 https://magpi.raspberrypi.org/articles/build-a-magic-mirror
 https://tinypilotkvm.com
+
+[You can't buy a Raspberry Pi right now](https://www.jeffgeerling.com/blog/2022/you-cant-buy-raspberry-pi-right-now) - Oct 3, 2022
