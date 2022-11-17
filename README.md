@@ -201,6 +201,8 @@ Basic Data Structures:
 * [Floating point library](https://github.com/oprecomp/FloatX)
 
 * [Asynchronous programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
+
+* [libgrapheme](https://libs.suckless.org/libgrapheme/) - utilities for properly handling strings
     
 
 * [A Tutorial on Pointers and Arrays in C:] (http://home.netcom.com/%7Etjensen/ptr/pointers.htm)
