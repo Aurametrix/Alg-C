@@ -187,6 +187,7 @@ Basic Data Structures:
 * [C++ implementation of the I2P anonymous network](https://github.com/monero-project/kovri)
 * [C++20 concepts](https://thecodepad.com/cpp/c20-concepts-the-definitive-guide/)
 * [C3](https://news.ycombinator.com/item?id=32005678)
+* [Mildly interesting quirks of C](https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01)
     
 [Open source physics simulator for robotics](https://deepmind.com/blog/announcements/mujoco)
     + [C API](https://mujoco.org/download)
