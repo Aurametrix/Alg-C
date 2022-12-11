@@ -292,6 +292,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [darkhttpd](https://unix4lyfe.org/darkhttpd/) - an http server in a single .c file
 + [Rust vs C/C++](http://cliffle.com/blog/prefer-rust/)
 + [Embracing Modern C++ safely](https://www.cppstories.com/2022/embracing-modern-cpp-book/)
++ [Miraclecast](https://github.com/albfan/miraclecast) - Wifi-Display
 + [Apple Open Source projects](https://opensource.apple.com/)
 
 ### Raspberry Pi
