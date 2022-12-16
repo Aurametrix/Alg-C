@@ -279,7 +279,9 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
     
 + [Fast Server for Python written in C](https://github.com/jamesroberts/fastwsgi)
 
-+[Fast note-raking app](https://github.com/nuttyartist/notes)
++ [Fast note-raking app](https://github.com/nuttyartist/notes)
+
++ [C++ overtakes Java in popularity ](https://www.infoworld.com/article/3682141/c-plus-plus-overtakes-java-in-language-popularity-index.html): Dec 2022
 
 + [XHTTP:](https://github.com/cozis/xHTTP) - An HTTP server library in a single C file 
 
