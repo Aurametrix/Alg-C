@@ -35,6 +35,9 @@ csc /target:library File.cs
 
 + [3D real time physics simulation library](https://github.com/bepu/bepuphysics2)
 
++ [Blaze](https://bitbucket.org/blaze-lib/blaze/src/master/) -  high-performance C++ math library 
++ [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms
+
 ### Language used in unity
 + [Learn Unity](https://learn.unity.com/)
 
