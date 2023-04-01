@@ -203,6 +203,7 @@ Basic Data Structures:
 
 * [C++ implementation of a secure messaging protocol](https://github.com/equalitie/np1sec)
 
+* [CADseer](https://gitlab.com/blobfish/cadseer/-/releases) - CAD desktop app
 * [Secure cache](https://github.com/rongarret/scache)
 
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
