@@ -102,6 +102,7 @@ brew tap homebrew/versions && brew install gcc48
 
 Basic Data Structures:
 1. [STACKS](HASH/stack.cpp)
+        [Hashing for strings](http://0x80.pl/notesen/2023-04-30-lookup-in-strings.html)
 2. [QUEUES](HASH/queue.c%2B%2B)
 3. LINKED LISTS
     * [Linked List Basics](http://cslibrary.stanford.edu/103/)
