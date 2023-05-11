@@ -112,6 +112,7 @@ Basic Data Structures:
     * Binary Tree basics (http://cslibrary.stanford.edu/110/)
     * The Great Tree List Problem (http://cslibrary.stanford.edu/109/)
 
+ [Lock-free data structures](https://github.com/DNedic/lockfree)
 
 #### [SORT](https://github.com/Aurametrix/Alg-C/tree/master/SORT)
 
