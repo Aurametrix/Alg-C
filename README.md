@@ -297,6 +297,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [XHTTP:](https://github.com/cozis/xHTTP) - An HTTP server library in a single C file 
 
 + [NLP-based programming](https://twitter.com/matvelloso/status/1263193089310461952)
++ [	Run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)    
 + [A DOS JavaScript Canvas with sound written in C](https://github.com/SuperIlu/DOjS)
 + [Sabre C](https://github.com/garritfra/sabre)
 + [Little](http://www.little-lang.org/) - statically typed, C-like scripting language.
