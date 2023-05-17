@@ -80,6 +80,8 @@ Creating dynamically sized arrays at run-time is done using std::vector<T>
 [building a website with C++](https://blog.sourcerer.io/building-a-website-with-c-db942c801aee)
 
     [c++ web toolkit](https://www.webtoolkit.eu/wt/)
+    
+    [A little Web Server in C](https://github.com/robdelacruz/lkwebserver)
 
 * Essential C (http://cslibrary.stanford.edu/101/)
 Explains the basic features of the C programming language.
