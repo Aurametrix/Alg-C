@@ -312,6 +312,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Rust vs C/C++](http://cliffle.com/blog/prefer-rust/)
 + [Embracing Modern C++ safely](https://www.cppstories.com/2022/embracing-modern-cpp-book/)
 + [Miraclecast](https://github.com/albfan/miraclecast) - Wifi-Display
++ [C++23](http://modernescpp.com/index.php/c-23-the-next-c-standard)
 + [Apple Open Source projects](https://opensource.apple.com/)
 
 ### Raspberry Pi
