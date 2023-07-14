@@ -1,5 +1,6 @@
 
 + [Soundpipe, a lightweight music DSP library](http://paulbatchelor.github.io/proj/soundpipe.html) - [github](https://github.com/paulbatchelor/soundpipe)
++ [Music Demixer](https://sevag.xyz/free-music-demixer/) -- [source code](https://github.com/sevagh/free-music-demixer)
 
 + [Voc, a physical model of the vocal tract](http://pbat.ch/proj/voc/)
 + [Pink thrombone - speech synthesis](https://dood.al/pinktrombone/)
