@@ -37,6 +37,7 @@ csc /target:library File.cs
 
 + [Blaze](https://bitbucket.org/blaze-lib/blaze/src/master/) -  high-performance C++ math library 
 + [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms
++ [STX](https://lamarrr.github.io/STX/) - collection of libraries and utilities designed to make working with C++ easier and less error-prone; [source code](https://github.com/lamarrr/stx)
 
 ### Language used in unity
 + [Learn Unity](https://learn.unity.com/)
