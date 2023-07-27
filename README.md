@@ -199,6 +199,7 @@ Basic Data Structures:
 * [C3](https://news.ycombinator.com/item?id=32005678)
 * [Checked C](https://github.com/microsoft/checkedc) - adds static and dynamic checking to C to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses
 * [c & memory safety](https://gavinhoward.com/2023/02/why-i-use-c-when-i-believe-in-memory-safety/)
+* [runewordCalculator](https://github.com/downIoads/cpp_diablo2r_runewordCalculator) - for Diablo gamers
 * [myth & reality](https://www.lelanthran.com/chap9/content.html)
 
 * [Mildly interesting quirks of C](https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01)
