@@ -266,7 +266,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 
 + [Virtual CPU](http://megalomaniacbore.blogspot.com/2014/04/virtual-cpu-in-c-4001-cpu.html)
     
-+ [Template engine for modern C++](https://github.com/pantor/inja)    
++ [Template engine for modern C++](https://github.com/pantor/inja)
++ [Modern C development environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
 
 + [Circle](https://github.com/seanbaxter/circle) - C++ compiler
 
