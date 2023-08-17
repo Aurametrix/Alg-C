@@ -2,7 +2,9 @@
 
 * [LLAMA.cpp](https://github.com/ggerganov/llama.cpp/pull/1642)
   * [grammar-based sampling](https://github.com/ggerganov/llama.cpp/pull/1773/commits)
-  * [LLAMA.2c](https://github.com/karpathy/llama2.c)
+  * [Llama.2c](https://github.com/karpathy/llama2.c)
+  * [Llama.gpt](https://github.com/getumbrel/llama-gpt)
+  * [dependabot](https://github.com/serge-chat/serge)
 * [FB Speech System](https://code.fb.com/ai-research/wav2letter/)
 
 * [FB ML library for speech](https://github.com/facebookresearch/flashlight)
