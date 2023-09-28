@@ -226,6 +226,7 @@ Basic Data Structures:
     
 
 * [A Tutorial on Pointers and Arrays in C:] (http://home.netcom.com/%7Etjensen/ptr/pointers.htm)
+* [Static Analyzers](https://nrk.neocities.org/articles/c-static-analyzers)
 * [Learn C++ for embedded code](https://luckyresistor.me/knowledge/learn-cpp/)
 * [Embedded template library](https://www.etlcpp.com/)
 
