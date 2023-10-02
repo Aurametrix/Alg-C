@@ -115,9 +115,11 @@ Basic Data Structures:
     * Binary Tree basics (http://cslibrary.stanford.edu/110/)
     * The Great Tree List Problem (http://cslibrary.stanford.edu/109/)
 
- [Lock-free data structures](https://github.com/DNedic/lockfree)
+[Lock-free data structures](https://github.com/DNedic/lockfree)
 
- [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
+[Representing Heterogenous Data](https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
+
+[Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
 
 #### [SORT](https://github.com/Aurametrix/Alg-C/tree/master/SORT)
 
