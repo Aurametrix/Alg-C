@@ -52,6 +52,7 @@ csc /target:library File.cs
 + [virtual machine that runs C in the browser](https://vasyop.github.io/miniC-hosting)
 + [Single Instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
 + [High Performance Garbage Collector](https://v8.dev/blog/high-performance-cpp-gc)
++ [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
 + [C++ for Android and iOS development](https://github.com/ashampoosystems/boden)
 + [Intro to pointers](https://www.brainstobytes.com/a-gentle-introduction-to-pointers-in-c/)
 + [Implementing a class with a void *](http://web.eecs.utk.edu/~jplank/plank/classes/cs140/Notes/Running_Times/voidstar.html)
