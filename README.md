@@ -337,3 +337,4 @@ https://magpi.raspberrypi.org/articles/build-a-magic-mirror
 https://tinypilotkvm.com
 
 [You can't buy a Raspberry Pi right now](https://www.jeffgeerling.com/blog/2022/you-cant-buy-raspberry-pi-right-now) - Oct 3, 2022
+[Cray vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
