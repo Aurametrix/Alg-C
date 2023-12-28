@@ -326,6 +326,10 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [C++23](http://modernescpp.com/index.php/c-23-the-next-c-standard)
 + [Apple Open Source projects](https://opensource.apple.com/)
 + [C++Builder 11](https://www.embarcadero.com/products/cbuilder/starter)  Community Edition
+  
+
+### Swift
+[rem](https://github.com/jasonjmcghee/rem) - remember everything
 
 ### Raspberry Pi
 https://github.com/hoglet67/RGBtoHDMI
