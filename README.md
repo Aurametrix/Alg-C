@@ -249,6 +249,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 * [Alternative Operator Representations](https://en.cppreference.com/w/cpp/language/operator_alternative)
 
 * [Understanding the C/C++ memory model](https://davmac.wordpress.com/2018/01/28/understanding-the-c-c-memory-model/)
+* [Memory Safe C++](https://lobste.rs/s/txcnjn/memory_safe_c)
 
 * [Near-duplicate features of C++](https://www.nayuki.io/page/near-duplicate-features-of-cplusplus)
 
