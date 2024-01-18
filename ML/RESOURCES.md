@@ -7,6 +7,7 @@
   * [dependabot](https://github.com/serge-chat/serge)
   * [Llamafile](https://github.com/Mozilla-Ocho/llamafile) - an open source initiative that collapses all the complexity of a full-stack LLM chatbot down to a single file that runs on six operating systems --[blog post](https://future.mozilla.org/blog/introducing-llamafile/)
 
+* [Privy]([A privacy-first coding assistant.](https://github.com/srikanth235/privy)) - A privacy-first coding assistant
 
 * [OnnxStrea](https://github.com/vitoplantamura/OnnxStream) - running Stable Diffusin XL 1.0 in 298MB of RAM 
 
