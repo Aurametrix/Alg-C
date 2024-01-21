@@ -56,6 +56,8 @@ csc /target:library File.cs
 + [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
 + [C++ for Android and iOS development](https://github.com/ashampoosystems/boden)
 + [Intro to pointers](https://www.brainstobytes.com/a-gentle-introduction-to-pointers-in-c/)
++ [So you think you know C?](https://wordsandbuttons.online/so_you_think_you_know_c.html)
++ [Memory Leak-Proof every C program](https://flak.tedunangst.com/post/memory-leak-proof-every-C-program)
 + [Implementing a class with a void *](http://web.eecs.utk.edu/~jplank/plank/classes/cs140/Notes/Running_Times/voidstar.html)
 + [Obfuscation tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
 + [Defining C macros](https://bowero.nl/blog/2020/10/25/defining-c-macros-the-right-way/)
