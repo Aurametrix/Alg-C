@@ -54,6 +54,7 @@ csc /target:library File.cs
 + [Single Instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
 + [High Performance Garbage Collector](https://v8.dev/blog/high-performance-cpp-gc)
 + [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
++ [A garbage collector for C and C++](https://hboehm.info/gc/)
 + [C++ for Android and iOS development](https://github.com/ashampoosystems/boden)
 + [Intro to pointers](https://www.brainstobytes.com/a-gentle-introduction-to-pointers-in-c/)
 + [So you think you know C?](https://wordsandbuttons.online/so_you_think_you_know_c.html)
