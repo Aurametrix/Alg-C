@@ -62,7 +62,8 @@ csc /target:library File.cs
 + [Implementing a class with a void *](http://web.eecs.utk.edu/~jplank/plank/classes/cs140/Notes/Running_Times/voidstar.html)
 + [Obfuscation tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
 + [Defining C macros](https://bowero.nl/blog/2020/10/25/defining-c-macros-the-right-way/)
-+ [Cling](https://root.cern/cling/) - an interactive C++ interpreter,
++ [Cling](https://root.cern/cling/) - an interactive C++ interpreter
++ [Blogging Engine in C](https://github.com/spc476/mod_blog)
 
 ===
 Creating dynamically sized arrays at run-time is done using std::vector<T>
