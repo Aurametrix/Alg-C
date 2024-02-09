@@ -6,8 +6,11 @@
   * [Llama.gpt](https://github.com/getumbrel/llama-gpt)
   * [dependabot](https://github.com/serge-chat/serge)
   * [Llamafile](https://github.com/Mozilla-Ocho/llamafile) - an open source initiative that collapses all the complexity of a full-stack LLM chatbot down to a single file that runs on six operating systems --[blog post](https://future.mozilla.org/blog/introducing-llamafile/)
+  * [Open AI compatibility](https://ollama.ai/blog/openai-compatibility)
+  * [Self-hosting is easy now](https://euri.ca/blog/2024-llm-self-hosting-is-easy-now/)
+ 
 
-* [Privy](https://github.com/srikanth235/privy)) - A privacy-first coding assistant. Platforms: [Ollama](https://github.com/jmorganca/ollama), [llamafile](https://github.com/Mozilla-Ocho/llamafile), [llama.cpp](https://github.com/ggerganov/llama.cpp). LLMS recommended: Mistral, CodeLLama
+* [Privy](https://github.com/srikanth235/privy) - A privacy-first coding assistant. Platforms: [Ollama](https://github.com/jmorganca/ollama), [llamafile](https://github.com/Mozilla-Ocho/llamafile), [llama.cpp](https://github.com/ggerganov/llama.cpp). LLMS recommended: Mistral, CodeLLama
 
 * [OnnxStrea](https://github.com/vitoplantamura/OnnxStream) - running Stable Diffusin XL 1.0 in 298MB of RAM 
 
