@@ -59,6 +59,7 @@ csc /target:library File.cs
 + [Intro to pointers](https://www.brainstobytes.com/a-gentle-introduction-to-pointers-in-c/)
 + [So you think you know C?](https://wordsandbuttons.online/so_you_think_you_know_c.html)
 + [Memory Leak-Proof every C program](https://flak.tedunangst.com/post/memory-leak-proof-every-C-program)
++ [Cake - C23 and Beyond](http://thradams.com/cake/ownership.html) - towards memory safety
 + [Implementing a class with a void *](http://web.eecs.utk.edu/~jplank/plank/classes/cs140/Notes/Running_Times/voidstar.html)
 + [Obfuscation tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
 + [Defining C macros](https://bowero.nl/blog/2020/10/25/defining-c-macros-the-right-way/)
