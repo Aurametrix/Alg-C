@@ -340,6 +340,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 ### Swift
 [rem](https://github.com/jasonjmcghee/rem) - remember everything
 
+[Embedded Swift ](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338) for Raspberry Pi
+
 ### Raspberry Pi
 https://github.com/hoglet67/RGBtoHDMI
 https://stardot.org.uk/forums/viewtopic.php?f=3&t=14430
