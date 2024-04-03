@@ -339,6 +339,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 
 ### Swift
 [rem](https://github.com/jasonjmcghee/rem) - remember everything
+[calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
 
 [Embedded Swift ](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338) for Raspberry Pi
 [AttributeGrap](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/), used internally by SwiftUI
