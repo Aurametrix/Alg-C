@@ -297,6 +297,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Modern C++](https://docs.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=vs-2019)
     
 + [C'](https://github.com/pfusik/cito/blob/master/ci.md)
++ [C++ error explosion competition](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
 
 + [Inline and sideline approaches for low-cost memory safety in C](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-954.html)
 
