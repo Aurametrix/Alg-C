@@ -18,7 +18,7 @@
 
 * [FB ML library for speech](https://github.com/facebookresearch/flashlight)
 
-
+* [Reproducing GPT-2 in LLM.c](https://github.com/karpathy/llm.c/discussions/481)
 
 * [Interactive C++ for Data Science](https://blog.llvm.org/posts/2020-12-21-interactive-cpp-for-data-science/)
 * [Flashlight](https://ai.facebook.com/blog/flashlight-fast-and-flexible-machine-learning-in-c-plus-plus/) - open source C++ ML library from FB AI
