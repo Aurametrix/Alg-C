@@ -289,6 +289,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Modern C development environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
 
 + [Circle](https://github.com/seanbaxter/circle) - C++ compiler
++ [Circle C++ with Memory Safety](https://www.circle-lang.org/site/intro/)
 
 + [writing games](https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html)
 
