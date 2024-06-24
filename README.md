@@ -61,6 +61,7 @@ csc /target:library File.cs
 + [Intro to pointers](https://www.brainstobytes.com/a-gentle-introduction-to-pointers-in-c/)
 + [So you think you know C?](https://wordsandbuttons.online/so_you_think_you_know_c.html)
 + [Memory Leak-Proof every C program](https://flak.tedunangst.com/post/memory-leak-proof-every-C-program)
++ [C can be memory safe](https://blog.erratasec.com/2023/02/c-can-be-memory-safe.html)
 + [Cake - C23 and Beyond](http://thradams.com/cake/ownership.html) - towards memory safety
 + [C and C++.i - no memory safety?](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf) - White house, FEBRUARY 2024
 + [Implementing a class with a void *](http://web.eecs.utk.edu/~jplank/plank/classes/cs140/Notes/Running_Times/voidstar.html)
