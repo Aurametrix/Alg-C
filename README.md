@@ -222,6 +222,7 @@ Basic Data Structures:
 * [Mildly interesting quirks of C](https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01)
 * [CUDA-accelerated raytracer](https://github.com/maxilevi/raytracer)
 * [C Is Not a Low-level Language](https://queue.acm.org/detail.cfm?id=3212479)
+* [Beating NumPy's matrix multiplication in 150 lines of C code]([Beating NumPy's matrix multiplication in 150 lines of C code](https://salykova.github.io/matmul-cpu))
 
 
 
