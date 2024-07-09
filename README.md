@@ -345,6 +345,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Apple Open Source projects](https://opensource.apple.com/)
 + [C++Builder 11](https://www.embarcadero.com/products/cbuilder/starter)  Community Edition
 + [Compilation of incomplete C code](http://cuda.dcc.ufmg.br/psyche-c/)
++ [C++ for high frequency trading](https://arxiv.org/abs/2309.04259)
++ [Low latency stock exchange](https://github.com/sneilan/stock-exchange)
   
 
 ### Swift
