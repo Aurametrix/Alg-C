@@ -347,6 +347,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Compilation of incomplete C code](http://cuda.dcc.ufmg.br/psyche-c/)
 + [C++ for high frequency trading](https://arxiv.org/abs/2309.04259)
 + [Low latency stock exchange](https://github.com/sneilan/stock-exchange)
++ [RR](https://rr-project.org/) - C/C++ debugging tool for Linux
   
 
 ### Swift
