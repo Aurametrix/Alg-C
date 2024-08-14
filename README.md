@@ -260,6 +260,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 
 * [Microsoft Build Accelerator](https://news.ycombinator.com/item?id=19791515)
 * [Alternative Operator Representations](https://en.cppreference.com/w/cpp/language/operator_alternative)
+* [Top 21 C++ Library Pairings Every Developer Must Know](https://www.youtube.com/watch?v=uzxM_4EGqOk) - youtube
 
 * [Understanding the C/C++ memory model](https://davmac.wordpress.com/2018/01/28/understanding-the-c-c-memory-model/)
 * [Memory Safe C++](https://lobste.rs/s/txcnjn/memory_safe_c)
