@@ -223,6 +223,7 @@ Basic Data Structures:
 * [CUDA-accelerated raytracer](https://github.com/maxilevi/raytracer)
 * [C Is Not a Low-level Language](https://queue.acm.org/detail.cfm?id=3212479)
 * [Beating NumPy's matrix multiplication in 150 lines of C code]([Beating NumPy's matrix multiplication in 150 lines of C code](https://salykova.github.io/matmul-cpu))
+* [What’s new in C++26](https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/)
 
 
 
