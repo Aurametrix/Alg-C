@@ -99,6 +99,8 @@ Creating dynamically sized arrays at run-time is done using std::vector<T>
     
     [A little Web Server in C](https://github.com/robdelacruz/lkwebserver)
 
+    [Blogtech](https://github.com/cozis/blogtech) - minimal web server designed to host a blog
+
 * Essential C (http://cslibrary.stanford.edu/101/)
 Explains the basic features of the C programming language.
 * Pointers and Memory (http://cslibrary.stanford.edu/102/)
