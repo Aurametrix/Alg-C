@@ -362,6 +362,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 [Embedded Swift ](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338) for Raspberry Pi
 [AttributeGrap](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/), used internally by SwiftUI
 
+[DescPad](https://github.com/Stengo/DeskPad/tree/main/DeskPad) - A virtual monitor for screen sharing
+
 ### Raspberry Pi
 https://github.com/hoglet67/RGBtoHDMI
 https://stardot.org.uk/forums/viewtopic.php?f=3&t=14430
