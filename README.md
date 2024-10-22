@@ -242,6 +242,7 @@ Basic Data Structures:
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
 
 * [Floating point library](https://github.com/oprecomp/FloatX)
+* [Floating point arithmetic types](https://github.com/clemensmanert/fas)
 
 * [Asynchronous programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 
