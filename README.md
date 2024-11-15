@@ -355,6 +355,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [C++ for high frequency trading](https://arxiv.org/abs/2309.04259)
 + [Low latency stock exchange](https://github.com/sneilan/stock-exchange)
 + [RR](https://rr-project.org/) - C/C++ debugging tool for Linux
++ [Avalonia Visual Basic 6](https://github.com/BAndysc/AvaloniaVisualBasic6) - A recreation of the classic Visual Basic 6 IDE and language in C# using Avalonia.
   
 
 ### Swift
