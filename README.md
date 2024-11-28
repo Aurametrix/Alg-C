@@ -303,6 +303,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Circle C++ with Memory Safety](https://www.circle-lang.org/site/intro/)
 
 + [writing games](https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html)
++ [C Reduce](https://bernsteinbear.com/blog/creduce/) can be used for any language
 
 + [Anomaly detection in graphs](https://github.com/bhatiasiddharth/MIDAS)
 
