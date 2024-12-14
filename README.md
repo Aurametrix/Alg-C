@@ -49,6 +49,7 @@ csc /target:library File.cs
 + [Hello World](https://thecoder08.github.io/hello-world.html)
 + [Compiler Explorer](https://godbolt.org/)
 + [C compiler that used Excel](https://github.com/mrthefakeperson/Excel-Virtual-Machine)
++ [C++ exception performance](https://databasearchitects.blogspot.com/2024/12/c-exception-performance-three-years.html)
 + [understanding Objective-C](https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html) by transpiling it to C++
 + [awk to C compiler](https://github.com/nokia/awkcc)
 + [xmake](https://github.com/xmake-io/xmake) - build utility
