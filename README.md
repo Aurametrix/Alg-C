@@ -52,6 +52,7 @@ csc /target:library File.cs
 + [C++ exception performance](https://databasearchitects.blogspot.com/2024/12/c-exception-performance-three-years.html)
 + [understanding Objective-C](https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html) by transpiling it to C++
 + [awk to C compiler](https://github.com/nokia/awkcc)
++ [c2fj](https://github.com/tomhea/c2fj) - Compile C to Not Gates
 + [xmake](https://github.com/xmake-io/xmake) - build utility
 + [virtual machine that runs C in the browser](https://vasyop.github.io/miniC-hosting)
 + [Single Instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
