@@ -266,6 +266,7 @@ statically typed programming language, inspired by Python and C++, that can be e
 * [Zstandard, real time compression](https://github.com/facebook/zstd)
 see also [Zstd before FB](https://github.com/luben/zstd-jni)
 * [Parcing C in Tcl](https://wiki.tcl-lang.org/page/Parsing+C+Types)
+* [implementing generic types](https://btmc.substack.com/p/implementing-generic-types-in-c)
 
 * [C and C++ refactoring tips](https://software.intel.com/content/www/us/en/develop/articles/the-ultimate-question-of-programming-refactoring-and-everything.html)
 
