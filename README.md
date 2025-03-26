@@ -245,6 +245,8 @@ Basic Data Structures:
 
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
 
+* [X macros](https://danilafe.com/blog/chapel_x_macros/)
+
 * [Floating point library](https://github.com/oprecomp/FloatX)
 * [Floating point arithmetic types](https://github.com/clemensmanert/fas)
 
@@ -253,6 +255,8 @@ Basic Data Structures:
 * [libgrapheme](https://libs.suckless.org/libgrapheme/) - utilities for properly handling strings
 * [ANIL](https://github.com/AnilBK/ANIL) - A Nice Intermediate Language, 
 statically typed programming language, inspired by Python and C++, that can be embedded within C source files.
+
+*[Circle](https://github.com/rsta2/circle) - C++ bare metal programming environment for the Raspberry Pi
     
 
 * [A Tutorial on Pointers and Arrays in C:] (http://home.netcom.com/%7Etjensen/ptr/pointers.htm)
