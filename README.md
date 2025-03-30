@@ -338,6 +338,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Terminal File Manager](https://github.com/jarun/nnn); see also [vifm](https://github.com/vifm/vifm)
 
 + [olive](https://tsoding.org/olive.c/) - graphics lib with no dependencies
++ [LVGL](https://github.com/lvgl/lvgl) - embedded graphics library to create beautiful UIs
     
 + [Fast Server for Python written in C](https://github.com/jamesroberts/fastwsgi)
 
