@@ -35,3 +35,4 @@ Easy Configuration: You only need to set up your API key in the extension settin
 ### Blog posts
 
 * [How screen scraping and TinyML can turn any dial into an API](https://petewarden.com/2021/02/28/how-screen-scraping-and-tinyml-can-turn-any-dial-into-an-api/); [code](https://github.com/jomjol/AI-on-the-edge-device)
+* [Compiling a Neural Net to C for a 1,744× speedup](https://slightknack.dev/blog/difflogic/)
