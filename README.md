@@ -224,6 +224,7 @@ Basic Data Structures:
 * [c & memory safety](https://gavinhoward.com/2023/02/why-i-use-c-when-i-believe-in-memory-safety/)
 * [runewordCalculator](https://github.com/downIoads/cpp_diablo2r_runewordCalculator) - for Diablo gamers
 * [myth & reality](https://www.lelanthran.com/chap9/content.html)
+* [W++](https://github.com/sinisterMage/WPlusPlus) - python-style scripting langiage; Full tokenizer, parser, and interpreter written in C#
 
 * [Mildly interesting quirks of C](https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01)
 * [CUDA-accelerated raytracer](https://github.com/maxilevi/raytracer)
