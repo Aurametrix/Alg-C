@@ -45,6 +45,7 @@ csc /target:library File.cs
 ===
 
 + [compile C#/C++ faster](https://github.com/Microsoft/FASTER)
++ [Writing your own C++ standard library](https://nibblestew.blogspot.com/2025/05/writing-your-own-c-standard-library.html)
 + [a history of C compilers](https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance)
 + [Hello World](https://thecoder08.github.io/hello-world.html)
 + [Compiler Explorer](https://godbolt.org/)
