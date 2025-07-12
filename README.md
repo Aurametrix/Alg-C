@@ -374,6 +374,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Low latency stock exchange](https://github.com/sneilan/stock-exchange)
 + [RR](https://rr-project.org/) - C/C++ debugging tool for Linux
 + [Avalonia Visual Basic 6](https://github.com/BAndysc/AvaloniaVisualBasic6) - A recreation of the classic Visual Basic 6 IDE and language in C# using Avalonia.
++ [jank](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
   
 
 ### Swift
