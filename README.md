@@ -323,6 +323,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
     
 + [C'](https://github.com/pfusik/cito/blob/master/ci.md)
 + [C++ error explosion competition](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
++ [Maps on chains](https://bannalia.blogspot.com/2025/07/maps-on-chains.html)
 
 + [Inline and sideline approaches for low-cost memory safety in C](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-954.html)
 
