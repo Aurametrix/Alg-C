@@ -235,10 +235,8 @@ Basic Data Structures:
 * [What’s new in C++26](https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/)
 * [](https://jorenar.com/blog/less-known-c) - lesser known tricks, quirks and features of C
 * [Hexi](https://github.com/EmberEmu/Hexi) - lightweight, header-only C++23 library for safely handling binary data from arbitrary sources
-
-
-
-[Open source physics simulator for robotics](https://deepmind.com/blog/announcements/mujoco)
+* [Carbon language](https://docs.carbon-lang.dev/) - An experimental successor to C++
+* [Open source physics simulator for robotics](https://deepmind.com/blog/announcements/mujoco)
     + [C API](https://mujoco.org/download)
     + https://deepmind.com/blog/announcements/mujoco
 
