@@ -1,4 +1,4 @@
-
+* [Reflect](https://github.com/openai/openai-reflect) -  a hardware AI Assistant that was built during a OpenAI hackathon. 
 
 * [LLAMA.cpp](https://github.com/ggerganov/llama.cpp/pull/1642)
   * [grammar-based sampling](https://github.com/ggerganov/llama.cpp/pull/1773/commits)
