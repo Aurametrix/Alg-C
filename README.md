@@ -262,6 +262,7 @@ Basic Data Structures:
 statically typed programming language, inspired by Python and C++, that can be embedded within C source files.
 
 * [Circle](https://github.com/rsta2/circle) - C++ bare metal programming environment for the Raspberry Pi
+* [BirdNet-Pi](https://github.com/Nachtzuster/BirdNET-Pi) - Bird song recognition and cataloguing using the BirdNET machine learning model. Runs on a Raspberry Pi with a provided shell script
 * [binfmtc](https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en) - binfmt_misc C scripting interface
     
 
