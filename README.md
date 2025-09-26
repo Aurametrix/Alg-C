@@ -401,6 +401,8 @@ https://www.skyatnightmagazine.com/advice/diy/raspberry-pi-meteor-detector/
 https://magpi.raspberrypi.org/articles/build-a-magic-mirror
 https://tinypilotkvm.com
 
+[Raspberry Pi 500+](https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/)
+
 [You can't buy a Raspberry Pi right now](https://www.jeffgeerling.com/blog/2022/you-cant-buy-raspberry-pi-right-now) - Oct 3, 2022
 [Cray vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
 [Un LLM en un Raspberry Pi](https://blog.novusteck.com/un-llm-en-un-raspberry-pi)
