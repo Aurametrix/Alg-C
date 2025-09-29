@@ -147,6 +147,8 @@ Basic Data Structures:
 
 [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
 
+[safe Zero copy operations in C](https://ssg.dev/safe-zero-copy-operations-in-c/)
+
 #### [SORT](https://github.com/Aurametrix/Alg-C/tree/master/SORT)
 
 ------
