@@ -339,6 +339,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Find partners for software projects](https://redsand.io/)
 
 + [Orca](https://git.sr.ht/~rabbits/orca) - audio-visual live coding
++ [Audacity](https://github.com/audacity/audacity/blob/8d6e45a9756e700b7fe6892a5d485a0f09e5eca0/au3/src/update/UpdateManager.cpp) - Digital Audio Editor
++ [Tenacity](https://tenacityaudio.org/) - cross-platform multi-track audio editor/recorder
 
 + [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - time seeries visualization
 + [Implot](https://github.com/epezent/implot) - GPU plotting library
