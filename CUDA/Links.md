@@ -1,5 +1,7 @@
 [HipScript](https://hipscript.lights0123.com/) -  Run CUDA in the browser with WebAssembly and WebGPU
 
+[CUDA ontology](https://jamesakl.com/posts/cuda-ontology/)
+
 [Tensor Ops Made Easier in cuDNN](https://devblogs.nvidia.com/tensor-ops-made-easier-in-cudnn/)
 
 [imgui library](https://github.com/ocornut/imgui)
