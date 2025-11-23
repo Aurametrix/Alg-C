@@ -335,6 +335,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Inline and sideline approaches for low-cost memory safety in C](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-954.html)
 
 + [Test anything in C++ ](http://testanything.org/testing-with-tap/c-plus-plus.html)
++ [Time in C++](https://www.sandordargo.com/blog/2025/11/19/clocks-part-1-intro-to-chrono)
 
 + [Find partners for software projects](https://redsand.io/)
 
