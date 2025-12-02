@@ -103,6 +103,8 @@ Creating dynamically sized arrays at run-time is done using std::vector<T>
     
 [Libraries for server applications](https://github.com/facebook/folly) from MEta/FB   
 
+[C++ web server](https://oshub.org/projects/retros-32/posts/getting-a-webserver-running)
+
 [building a website with C++](https://blog.sourcerer.io/building-a-website-with-c-db942c801aee)
 
     [c++ web toolkit](https://www.webtoolkit.eu/wt/)
