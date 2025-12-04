@@ -88,6 +88,8 @@ Creating dynamically sized arrays at run-time is done using std::vector<T>
 
 + [Efficient Array Programming](https://github.com/razetime/efficient-array-programming?tab=readme-ov-file)
 
++ [Checked-size Array Parameters](https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/)
+
 
 + [Box2D](https://github.com/erincatto/Box2D/commits/master) -  2D physics engine for games
 +  [script video games](https://github.com/ArkScript-lang/Ark)
