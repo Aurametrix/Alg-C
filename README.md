@@ -53,6 +53,7 @@ csc /target:library File.cs
 + [Compiler Explorer](https://godbolt.org/)
 + [C compiler that used Excel](https://github.com/mrthefakeperson/Excel-Virtual-Machine)
 + [C++ exception performance](https://databasearchitects.blogspot.com/2024/12/c-exception-performance-three-years.html)
++ [vdb](https://github.com/abdimoallim/vdb) - header-only C library for storing and searching high-dimensional vector embeddings with optional multithreading support.
 + [understanding Objective-C](https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html) by transpiling it to C++
 + [awk to C compiler](https://github.com/nokia/awkcc)
 + [c2fj](https://github.com/tomhea/c2fj) - Compile C to Not Gates
