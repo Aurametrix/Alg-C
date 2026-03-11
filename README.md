@@ -405,8 +405,10 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 [Embedded Swift ](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338) for Raspberry Pi
 [AttributeGrap](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/), used internally by SwiftUI
 
+[Practical Guide to Bare Metal C++](https://arobenko.github.io/bare_metal_cpp/#_abstract_classes)
+
 [DescPad](https://github.com/Stengo/DeskPad/tree/main/DeskPad) - A virtual monitor for screen sharing
-[](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust) - Swift is a more convenient Rust
+[Swift](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust) - a more convenient Rust
 
 ### Raspberry Pi
 https://github.com/hoglet67/RGBtoHDMI
