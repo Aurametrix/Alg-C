@@ -383,6 +383,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Cinder](https://libcinder.org/)  - a C++ library for programming with aesthetic intent
 + [darkhttpd](https://unix4lyfe.org/darkhttpd/) - an http server in a single .c file
 + [Rust vs C/C++](http://cliffle.com/blog/prefer-rust/)
++ [Embedded Rust or C firmware?](https://news.ycombinator.com/item?id=47974307)
 + [Safety vs Performance](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md) - A case study of C, C++ and Rust sort implementations.
 + [Embracing Modern C++ safely](https://www.cppstories.com/2022/embracing-modern-cpp-book/)
 + [Miraclecast](https://github.com/albfan/miraclecast) - Wifi-Display
