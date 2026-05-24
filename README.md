@@ -70,7 +70,8 @@ csc /target:library File.cs
 + [Memory-safe C interpretation](https://lwn.net/SubscriberLink/1042938/ac9a001023324bf8/)
 + [C can be memory safe](https://blog.erratasec.com/2023/02/c-can-be-memory-safe.html)
 + [Cake - C23 and Beyond](http://thradams.com/cake/ownership.html) - towards memory safety
-+ [C and C++.i - no memory safety?](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf) - White house, FEBRUARY 2024
++ [memory safety for C#](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/)
++ [C and C++  - no memory safety?](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf) - White house, FEBRUARY 2024
 + [Obvious Things C Should Do](https://www.digitalmars.com/articles/Cobvious.html)
 + [Implementing a class with a void *](http://web.eecs.utk.edu/~jplank/plank/classes/cs140/Notes/Running_Times/voidstar.html)
 + [Obfuscation tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
