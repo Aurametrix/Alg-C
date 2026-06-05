@@ -4,3 +4,5 @@
 
 
 [Topsort in Zig](https://github.com/williamw520/toposort) - a Potential Heir to C
+
+[ast Branchless Quicksort using Sorting-Networks with C and C++ Interface](https://tiki.li/blog/blqsort)
