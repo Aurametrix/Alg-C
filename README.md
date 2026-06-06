@@ -402,6 +402,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [jank](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
 + [forth-vm](https://github.com/no382001/forth-vm)
 + [Cicada](https://github.com/heltilda/cicada) - scripting language that integrates with C
++ [C++: The Documentary](https://herbsutter.com/2026/06/04/c-the-documentary-released-today/)
   
 
 ### Swift
