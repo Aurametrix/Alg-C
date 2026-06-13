@@ -412,6 +412,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 [Embedded Swift ](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338) for Raspberry Pi
 [AttributeGrap](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/), used internally by SwiftUI
 
+[vulnerabilities in FFMPEG](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
+
 [Practical Guide to Bare Metal C++](https://arobenko.github.io/bare_metal_cpp/#_abstract_classes)
 
 [DescPad](https://github.com/Stengo/DeskPad/tree/main/DeskPad) - A virtual monitor for screen sharing
