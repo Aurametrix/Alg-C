@@ -15,6 +15,8 @@ http://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_many.html
 Temperature
 https://www.instructables.com/id/How-to-Measure-Temperature-Very-Accurately-With-an/
 
+[Drone Physics](https://iahmed.me/post/drone-physics/)
+
 
 [Google VR Cardboard](https://github.com/googlevr/cardboard)
 
