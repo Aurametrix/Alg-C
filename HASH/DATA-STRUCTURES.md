@@ -7,3 +7,6 @@ A simple single header 64 bit hash function using only add, sub, ror, and xor: h
 
 
 [Hash functions](https://papa.bretmulvey.com/post/124027987928/hash-functions)
+
+
+[hopscotc map](https://github.com/Tessil/hopscotch-map) - A C++ implementation of a fast hash map and hash set using hopscotch hashing
