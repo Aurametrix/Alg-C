@@ -416,6 +416,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 
 [Practical Guide to Bare Metal C++](https://arobenko.github.io/bare_metal_cpp/#_abstract_classes)
 
+[Static Website Generator](https://github.com/x3hy/plate)
+
 [DescPad](https://github.com/Stengo/DeskPad/tree/main/DeskPad) - A virtual monitor for screen sharing
 [Swift](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust) - a more convenient Rust
 
