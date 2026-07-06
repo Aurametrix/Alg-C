@@ -284,6 +284,7 @@ statically typed programming language, inspired by Python and C++, that can be e
     
 
 * [A Tutorial on Pointers and Arrays in C:] (http://home.netcom.com/%7Etjensen/ptr/pointers.htm)
+* [Trust your compiler](https://categorica.io/blog/2026.06.29_trust_your_compiler/)
 * [Static Analyzers](https://nrk.neocities.org/articles/c-static-analyzers)
 * [Learn C++ for embedded code](https://luckyresistor.me/knowledge/learn-cpp/)
 * [Embedded template library](https://www.etlcpp.com/)
