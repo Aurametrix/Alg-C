@@ -339,6 +339,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [C Reduce](https://bernsteinbear.com/blog/creduce/) can be used for any language
 
 + [Anomaly detection in graphs](https://github.com/bhatiasiddharth/MIDAS)
++ [transcribe-cpp](https://workshop.cjpais.com/projects/transcribe-cpp) - ggml based transcription library
 
 + [Modern C++](https://docs.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=vs-2019)
     
