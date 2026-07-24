@@ -419,6 +419,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 
 [vulnerabilities in FFMPEG](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
 
+[Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/)
+
 [Practical Guide to Bare Metal C++](https://arobenko.github.io/bare_metal_cpp/#_abstract_classes)
 
 [Static Website Generator](https://github.com/x3hy/plate)
