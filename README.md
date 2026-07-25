@@ -378,7 +378,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 
 + [C++ overtakes Java in popularity ](https://www.infoworld.com/article/3682141/c-plus-plus-overtakes-java-in-language-popularity-index.html): Dec 2022
 
-+ [XHTTP:](https://github.com/cozis/xHTTP) - An HTTP server library in a single C file 
++ [XHTTP:](https://github.com/cozis/xHTTP) - An HTTP server library in a single C file
++ [Max/MSP externals covering essential studio gear.](https://github.com/apresta/max-studio-tools)
 
 + [NLP-based programming](https://twitter.com/matvelloso/status/1263193089310461952)
 + [	Run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
