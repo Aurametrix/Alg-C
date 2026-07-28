@@ -377,6 +377,7 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Less slow C++](https://github.com/ashvardanian/less_slow.cpp)
 
 + [C++ overtakes Java in popularity ](https://www.infoworld.com/article/3682141/c-plus-plus-overtakes-java-in-language-popularity-index.html): Dec 2022
++ [C++ projects packaged for Zig](https://github.com/allyourcodebase)
 
 + [XHTTP:](https://github.com/cozis/xHTTP) - An HTTP server library in a single C file
 + [Max/MSP externals covering essential studio gear.](https://github.com/apresta/max-studio-tools)
