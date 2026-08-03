@@ -267,6 +267,7 @@ Basic Data Structures:
 
 * [Floating point library](https://github.com/oprecomp/FloatX)
 * [Floating point arithmetic types](https://github.com/clemensmanert/fas)
+* [Float to Int conversion](https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/)
 
 * [Asynchronous programming in C#](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 
