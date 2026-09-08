@@ -431,6 +431,8 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 [DescPad](https://github.com/Stengo/DeskPad/tree/main/DeskPad) - A virtual monitor for screen sharing
 [Swift](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust) - a more convenient Rust
 
+[RISC-V Emulator and Linux System from Scratch](https://github.com/WerWolv/riscv-emulator)
+
 ### Raspberry Pi
 https://github.com/hoglet67/RGBtoHDMI
 https://stardot.org.uk/forums/viewtopic.php?f=3&t=14430
