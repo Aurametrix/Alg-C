@@ -77,6 +77,7 @@ csc /target:library File.cs
 + [Obfuscation tricks](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
 + [Defining C macros](https://bowero.nl/blog/2020/10/25/defining-c-macros-the-right-way/)
 + [Cling](https://root.cern/cling/) - an interactive C++ interpreter
++ [EDG C++](https://github.com/edgcpp/compiler)
 + [Blogging Engine in C](https://github.com/spc476/mod_blog)
 + [Neco](https://github.com/tidwall/neco) -  C library that provides concurrency using coroutines
 + [C++17 parallel algorithms and HIPSTDPAR](https://rocm.blogs.amd.com/software-tools-optimization/hipstdpar/README.html)
