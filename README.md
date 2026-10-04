@@ -78,6 +78,7 @@ csc /target:library File.cs
 + [Defining C macros](https://bowero.nl/blog/2020/10/25/defining-c-macros-the-right-way/)
 + [Cling](https://root.cern/cling/) - an interactive C++ interpreter
 + [EDG C++](https://github.com/edgcpp/compiler)
++ [C++ ionsights](https://github.com/andreasfertig/cppinsights) -  See your source code with the eyes of a compiler.
 + [Blogging Engine in C](https://github.com/spc476/mod_blog)
 + [Neco](https://github.com/tidwall/neco) -  C library that provides concurrency using coroutines
 + [C++17 parallel algorithms and HIPSTDPAR](https://rocm.blogs.amd.com/software-tools-optimization/hipstdpar/README.html)
