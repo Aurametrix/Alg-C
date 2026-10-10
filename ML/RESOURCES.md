@@ -11,6 +11,7 @@
   * [Open AI compatibility](https://ollama.ai/blog/openai-compatibility)
   * [Self-hosting is easy now](https://euri.ca/blog/2024-llm-self-hosting-is-easy-now/)
   * [Corral](https://github.com/Cardinal44/corral) - kill every command your agents starts
+  * [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
  
 
 * [Privy](https://github.com/srikanth235/privy) - A privacy-first coding assistant. Platforms: [Ollama](https://github.com/jmorganca/ollama), [llamafile](https://github.com/Mozilla-Ocho/llamafile), [llama.cpp](https://github.com/ggerganov/llama.cpp). LLMS recommended: Mistral, CodeLLama
