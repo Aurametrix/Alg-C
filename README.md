@@ -414,6 +414,9 @@ see also [Zstd before FB](https://github.com/luben/zstd-jni)
 + [Cicada](https://github.com/heltilda/cicada) - scripting language that integrates with C
 + [C++: The Documentary](https://herbsutter.com/2026/06/04/c-the-documentary-released-today/)
 + [Threadsanitizer](https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html)
++ [keybites](https://github.com/notaroomba/keybytes)
+  
++ 
   
 
 ### Swift
