@@ -241,6 +241,7 @@ Basic Data Structures:
 * [Real-Time C/C++/Rust Build Visualizer](https://danielchasehooper.com/posts/syscall-build-snooping/)
 * [Time in C++](https://www.sandordargo.com/blog/2025/12/24/clocks-part-5-conversions)
 * [C++20 concepts](https://thecodepad.com/cpp/c20-concepts-the-definitive-guide/)
+* [clice v1.0 Released: Welcome to Modern C++ ](https://ykiko.me/en/articles/2105384023094834022/)
 * [C3](https://news.ycombinator.com/item?id=32005678)
 * [Checked C](https://github.com/microsoft/checkedc) - adds static and dynamic checking to C to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses
 * [c & memory safety](https://gavinhoward.com/2023/02/why-i-use-c-when-i-believe-in-memory-safety/)
