@@ -86,7 +86,7 @@ csc /target:library File.cs
 + [GenMC](https://plv.mpi-sws.org/genmc/) - open-source state-of-the-art model checker for verifying concurrent C/C++ programs under the RC11, IMM, and LKMM memory models
 + [Zero C++](https://onurgumus.github.io/zero-csharp/index.html)
 + [Tempo Specializer - A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/)
-
++ [Default and {}](https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/)
 ===
 Creating dynamically sized arrays at run-time is done using std::vector<T>
 
